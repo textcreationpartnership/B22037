@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Martis, 25. April. 1643. The Lords and Commons assembled in Parliament, having received information by Sir Arthur Hesilrige, a member of the House of Commons, that there is great need of a present supply both of horse and foot ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22037</idno><idno type="EEBO-CITATION">99888891</idno>
+  <idno type="VID">193856</idno>
+  <idno type="EEBO-PROQUEST">2240903416</idno>
+  
+            <idno type="STC">Wing E1635cA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[54]</idno>
+            <idno type="STC">ESTC R232465</idno>
+            <idno type="PROQUEST">ocm99888891</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888891e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193856)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[54])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Martis, 25. April. 1643. The Lords and Commons assembled in Parliament, having received information by Sir Arthur Hesilrige, a member of the House of Commons, that there is great need of a present supply both of horse and foot ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information from first four lines of text.</note>
+                  <note>Imprint information from Wing.</note>
+                  <note>Initials; Steele notation:  In-  all  Committee.</note>
+                  <note>Sir Arthur Haselrigge, having represented the needs of Sir William Waller, is authorized to borrow horse, men, or money for his assistance which the Parliament will repay with interest. -- Steele.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hesilrige, Arthur, --  Sir, d. 1661 --  Early works to 1800.</term>
+               <term type="personal_name">Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:193856:1"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Martis,</hi> 25. <hi>April.</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons assembled in Parliament, having received In<g ref="char:EOLhyphen"/>formation by Sir <hi>Arthur Hesilrige,</hi> a Member of the House of Com<g ref="char:EOLhyphen"/>mons, that there is great need of a present supply both of Horse and Foot, to be sent to Sir <hi>William Waller,</hi> the better to enable him to keep the Field, the Enemy being very strong; They do hereby declare, that all such as shall assist for the promoting this great work now in hand, and to that end shall lend to Sir <hi>William Waller</hi> or Sir <hi>Arthur Hesilrige,</hi> either Horse, or Men, fitted and prepared for the Warre, or Money for the carrying on of the Work, shall not onely manifest their being well affected to the Publick, but shall do an acceptable service to the Kingdom: And further, the Lords and Commons do hereby order and de<g ref="char:EOLhyphen"/>clare, That what Moneys shall be by any disbursed, and lent, or other Charges under<g ref="char:EOLhyphen"/>gone in this behalf, upon just Account, shall be repaid with Interest, out of the Publick Stock of the Kingdom; For which they do engage the Publick Faith. And likewise the said Lords and Commons do authorize all such Persons as shall be appointed by Sir <hi>Ar<g ref="char:EOLhyphen"/>thur Hesilrige</hi> to receive the Moneys, Horse, Armes, and other Provisions as aforesaid, to have full power and authoritie to give Receits and Certificates for the same.</p>
+            <closer>
+               <signed>Jo. Browne Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Ordinance of the Lords and Commons assembled in Parliament, bearing date the 25. <hi>April,</hi> 1643. power is given to Sir <hi>Arthur Hesilrige</hi> to constitute and appoint Receivers of the vo<g ref="char:EOLhyphen"/>luntarie subscriptions of Money, Horse, Armes, and other provisi<g ref="char:EOLhyphen"/>ons, that shall be by any disbursed, and lent to Sir <hi>William Waller,</hi> or Sir <hi>Arthur Hesilrige,</hi> for the supply of the Forces under the Command of Sir <hi>William Waller.</hi> By vertue of which Ordinance, the said Sir <hi>Arthur Hesilrige</hi> doth hereby give full power and Authoritie to Sir <hi>David Watking</hi> Knight, <hi>Edw. Cooke</hi> Apothecary, <hi>George Foxcraft,</hi> and <hi>Rich. Shute</hi> Marchants, all of London, or any two of them, to receive such Moneys, Horse, Armes, or other provi<g ref="char:EOLhyphen"/>sion as shall be subscribed: and to give Receits and Certificates for the same. And their Receits and Certificates so given, shall be sufficient to all purposes, so that each person may be repayed according to the intention of the said Ordinance. And the said Sir <hi>Arthur Hesilrige</hi> doth further appoint the persons hereafter named, together with those above mentioned, to meet at <hi>Grocers Hall,</hi> at such times as they shall iudge meet, to the end they, or any seven of them, may consider of, and transact all such things as shall be by them thought needfull for the better promoting of this necessary Work.</p>
+            <closer>
+               <signed>Art. Hesilrige
+<list>
+                     <item>Major <hi>Humphris,</hi>
+                     </item>
+                     <item>Mr. <hi>Tho. Eyres,</hi>
+                     </item>
+                     <item>Dr. <hi>Edw. Alston,</hi>
+                     </item>
+                     <item>Mr. <hi>Joh. Kendrick,</hi>
+                     </item>
+                     <item>Mr. <hi>Geo. Henley,</hi>
+                     </item>
+                     <item>Mr. <hi>Rich. Waring,</hi>
+                     </item>
+                     <item>Mr. <hi>Isa. Penington,</hi>
+                     </item>
+                     <item>Mr. <hi>Jam. Langham.</hi>
+                     </item>
+                     <item>Major <hi>Harvey,</hi>
+                     </item>
+                     <item>Major <hi>Turner,</hi>
+                     </item>
+                     <item>Cap. <hi>Player,</hi> senior</item>
+                     <item>Capt. <hi>Whitchcot,</hi>
+                     </item>
+                     <item>Capt. <hi>Titchburne,</hi>
+                     </item>
+                     <item>Capt. <hi>Lee,</hi>
+                     </item>
+                     <item>Capt. <hi>Vaughan,</hi>
+                     </item>
+                     <item>Capt. <hi>Hunt,</hi>
+                     </item>
+                     <item>Capt. <hi>Willoughby,</hi>
+                     </item>
+                     <item>Capt. <hi>Salwey,</hi>
+                     </item>
+                     <item>Mr. <hi>Edw. Claxston,</hi>
+                     </item>
+                     <item>Mr. <hi>Francis Kerby,</hi>
+                     </item>
+                     <item>Mr. <hi>Mich. Hering,</hi>
+                     </item>
+                     <item>Mr. <hi>Hougan Hovell</hi>
+                     </item>
+                     <item>Mr. <hi>Willingham,</hi>
+                     </item>
+                     <item>Mr. <hi>Rich. Willet,</hi>
+                     </item>
+                     <item>Mr. <hi>Will Hawkins,</hi>
+                     </item>
+                     <item>Mr. <hi>Samuel Moyer</hi>
+                     </item>
+                     <item>Mr. <hi>Will, Corbett,</hi>
+                     </item>
+                     <item>Mr. <hi>Tem, Milner,</hi>
+                     </item>
+                     <item>Mr. <hi>John Pocock,</hi>
+                     </item>
+                     <item>Mr. <hi>A. Babington,</hi>
+                     </item>
+                     <item>Mr. <hi>Edw. Gittings,</hi>
+                     </item>
+                     <item>Mr. <hi>Jo. Greensmith,</hi>
+                     </item>
+                     <item>Mr. <hi>Dan. Waldoe,</hi>
+                     </item>
+                     <item>Mr. <hi>Will. Barton,</hi>
+                     </item>
+                     <item>Mr. <hi>Tym. Whiteing,</hi>
+                     </item>
+                     <item>Mr. <hi>Rich. Hill,</hi>
+                     </item>
+                     <item>Mr. <hi>Arthur Dewe,</hi>
+                     </item>
+                     <item>Mr. <hi>Edw. Cludd,</hi>
+                     </item>
+                     <item>Mr. <hi>Henry Bonner,</hi>
+                     </item>
+                     <item>Mr. <hi>Jo. Wallington.</hi>
+                     </item>
+                     <item>Mr. <hi>Tho. Andrews.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>The Committee at <hi>Grocers Hall</hi> in pursuance of this Ordinance, do nominate and earnestly request the persons under-written, to promote by their utmost endeavours the subscription of each Pari<g ref="char:EOLhyphen"/>shioner in their respective Parishes, desiring every Subscriber to write his name and summe with his own hand: And it is further requested, that an account hereof be returned to the said Committee by the 9<seg rend="sup">th</seg>. of this instant <hi>May.</hi> 1643.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
